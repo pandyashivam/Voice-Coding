@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<VoiceCoding>
+	
+	<HeaderFiles name="Path" type="custom" value="C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include"/>
+	<HeaderFiles name="Path" type="defalut" value="C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include"/>
+
+	<Namespace name="Standard" value="std"/>
+	
+	<Datatype name="integer" value="int"/>
+	<Datatype name="int" value="int"/>
+	<Datatype name="boolean" value="bool"/>
+	<Datatype name="bool" value="bool"/>
+	<Datatype name="float" value="float"/>
+	<Datatype name="floating point" value="float"/>
+	<Datatype name="double" value="double"/>
+	<Datatype name="void" value="void"/>
+	
+	<PrintStyle name="print_line" value="print_line"/>
+	<PrintStyle name="print" value="print"/>
+	
+	<PrintValue name="var" value="cout endl;"/>
+	<PrintValue name="variable" value="cout endl;"/>
+	<PrintValue name="string" value="cout ;"/>
+
+	<Other name="for" value="for"/>
+	<Other name="while" value="while"/>
+	<Other name="do_while" value="dowhile"/>
+	<Other name="if" value="if"/>
+	<Other name="else" value="else"/>
+	<Other name="swich" value="swich"/>
+
+	<Operator name="plus" value="+"/>
+	<Operator name="minus" value="-"/>
+	<Operator name="plusplus" value="++"/>
+	<Operator name="minusminus" value="--"/>
+	<Operator name="multiplication" value="*"/>
+	<Operator name="graterthan" value=">"/>
+	<Operator name="graterthan_or_equalto" value=">="/>
+	<Operator name="equalto" value="="/>
+	<Operator name="equalto_eqaulto" value="=="/>
+	<Operator name="division" value="/"/>
+	<Operator name="modulo" value="%"/>
+	
+
+	<Alphabet name="a" value="a"/>
+	<Alphabet name="b" value="b"/>
+	<Alphabet name="c" value="c"/>
+	<Alphabet name="d" value="d"/>
+	<Alphabet name="e" value="e"/>
+	<Alphabet name="f" value="f"/>
+	<Alphabet name="g" value="g"/>
+	<Alphabet name="h" value="h"/>
+	<Alphabet name="i" value="i"/>
+	<Alphabet name="j" value="j"/>
+	<Alphabet name="k" value="k"/>
+	<Alphabet name="l" value="l"/>
+	<Alphabet name="m" value="m"/>
+	<Alphabet name="n" value="n"/>
+	<Alphabet name="o" value="o"/>
+	<Alphabet name="p" value="p"/>
+	<Alphabet name="q" value="q"/>
+	<Alphabet name="r" value="r"/>
+	<Alphabet name="s" value="s"/>
+	<Alphabet name="t" value="t"/>
+	<Alphabet name="u" value="u"/>
+	<Alphabet name="v" value="v"/>
+	<Alphabet name="w" value="w"/>
+	<Alphabet name="x" value="x"/>
+	<Alphabet name="y" value="y"/>
+	<Alphabet name="z" value="z"/>
+
+	<Number name="one" value="1"/>
+	<Number name="two" value="2"/>
+	<Number name="three" value="3"/>
+	<Number name="for" value="4"/>
+	<Number name="five" value="5"/>
+	<Number name="six" value="6"/>
+	<Number name="seven" value="7"/>
+	<Number name="eight" value="8"/>
+	<Number name="nine" value="9"/>
+	<Number name="ten" value="10"/>
+	<Number name="zero" value="0"/>
+
+
+	<Command name="Hello" value="hello"/>
+	<Command name="Up" value="up"/>
+	<Command name="Down" value="down"/>
+	<Command name="Left" value="left"/>
+	<Command name="Right" value="right"/>
+	<Command name="New Line" value="newline"/>
+	<Command name="Tab" value="tab"/>
+	<Command name="Erase" value="erase"/>
+	<Command name="Clear" value="clear"/>
+	<Command name="Back" value="back"/>
+	<Command name="Stop" value="stop"/>
+	<Command name="Exit" value="exit"/>
+	<Command name="Space" value="space"/>
+	<Command name="BackSpace" value="backspace"/>
+	<Command name="over" value="over" />
+	<Command name="lessthan" value="lessthan" />
+	<Command name="lessthanoreqalto" value="lessthanorequalto" />
+	<Command name="sorry" value="sorry" />
+	<command name="Enter" value="enter" />
+	
+	
+	
+
+</VoiceCoding>
